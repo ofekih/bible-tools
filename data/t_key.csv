@@ -10,3 +10,4 @@ id,table,abbreviation,language,version,info_text,info_url,publisher,copyright,co
 9,t_wyc,WYC,middle english,John Wycliffe's Translation,,http://wesley.nnu.edu/fileadmin/imported_site/biblical_studies/wycliffe/,,Public Domain,
 10,t_alf,ALF,old english,Aelfric's Old Testament,,https://helsinkicorpus.arts.gla.ac.uk/browse.py?fs=100&format=html&toc=author&pb=true&params=false&pln=true&highlight=&text=aelfold,,Public Domain,
 11,t_alf_wsg,ALF_WSG,old english,Aelfric's Old Testament + West-Saxon Gospels,,,,Public Domain,
+12,t_mm,MM,hebrew,Mechon Mamre,,https://www.mechon-mamre.org/p/pt/pt0.htm,,Public Domain,
